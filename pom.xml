@@ -24,6 +24,7 @@
     </dependencies>
 
     <build>
+        <finalName>es-ext-dic</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
